@@ -215,7 +215,7 @@ public class Window extends javax.swing.JFrame {
         jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/atualizahosts.png"))); // NOI18N
 
         jLabel6.setForeground(new java.awt.Color(0, 102, 102));
-        jLabel6.setText("Versão 1.8");
+        jLabel6.setText("Versão 1.2");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
